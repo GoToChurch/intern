@@ -25,6 +25,9 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+venv/
+.idea/
+.pytest_cache/
 MANIFEST
 
 # PyInstaller
